@@ -46,20 +46,20 @@
           <tr>
             <td width="33%">
             {% if website_url != "none" %}
-              <a class="landing btn btn__secondary-light" href="{{ website_url }}">Website</a>
+              <a class="landing btn btn__secondary-light" href="{{ website_url }}" target="_blank">Website</a>
             {% endif %}
             </td>
             <td width="33%">
             {% if github_url != "none" %}
               {% if github_url != "" %}
-                <a href="{{ github_url }}"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png" align="center" width="75"></a>
+                <a href="{{ github_url }}" target="_blank"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png" align="center" width="75"></a>
               {% endif %}
             {% endif %}
             </td>
             <td width="33%">
             {% if twitter_url != "none" %}
               {% if twitter_url != "" %}
-                <a href="{{ twitter_url }}"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/twitter-icon.png" align="center" width="70"></a>
+                <a href="{{ twitter_url }}" target="_blank"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/twitter-icon.png" align="center" width="70"></a>
               {% endif %}
             {% endif %}
             </td>
