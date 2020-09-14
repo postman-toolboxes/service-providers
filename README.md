@@ -1,4 +1,4 @@
-# Postman Developer Toolbox
-This is a proof of concept for a Postman toolbox, which provides a single place to find all of the Postman developer resources. Providing a landing page, as well as forkable repo of all the APIs, specifications, and toolings developers can take advantage of to work with the platform.
+# Service Providers
+This is a list of service providers who are selling services to API providers, or have value to API providers, broken down by common stops along the API lifecycle.
 
-URL: https://postman-toolboxes.github.io/postman/
+URL: https://postman-toolboxes.github.io/service-providers/
