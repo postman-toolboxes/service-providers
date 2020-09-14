@@ -1,0 +1,18 @@
+title: API Service Providers
+description: This is a list of service providers who are selling services to API providers, or have value to API providers, broken down by common stops along the API lifecycle.
+image: https://postman-toolboxes.s3.amazonaws.com/assets/postman-toolbox.png
+url: https://postman-toolboxes.github.io/service-providers
+email: info@apievangelist.com
+
+github_user: postman-toolboxes
+github_repo: postman
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
