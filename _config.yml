@@ -1,10 +1,10 @@
 title: API Service Providers
 description: This is a list of service providers who are selling services to API providers, or have value to API providers, broken down by common stops along the API lifecycle.
-image: https://postman-toolboxes.s3.amazonaws.com/assets/postman-toolbox.png
-url: https://postman-toolboxes.github.io/service-providers
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/postman-toolbox.png
+url: https://postman-toolboxes2.github.io/service-providers
 email: info@apievangelist.com
 
-github_user: postman-toolboxes
+github_user: postman-toolboxes2
 github_repo: postman
 github_branch: master
 
